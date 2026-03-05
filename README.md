@@ -1,2 +1,1 @@
-# CODSOFT
-Internship Nov 2023
+# Short Projects
